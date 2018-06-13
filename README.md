@@ -4,4 +4,4 @@ This repository is a collection of tutorials, examples, and playgrounds, documen
 
 Metal is low-level GPU framework for iOS, macOS, tvOS, and watchOS created in 2014 by Apple.
 
-My reference for these is a text called "Metal programming guide: tutorial and refernce via Swift" by Janie Clayton. 
+My reference for these is a text called "Metal programming guide: tutorial and reference via Swift" by Janie Clayton. 
